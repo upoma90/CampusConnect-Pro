@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "react-scripts start"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
